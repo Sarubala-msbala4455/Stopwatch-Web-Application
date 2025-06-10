@@ -8,7 +8,7 @@
 - Record lap times.
 - User-friendly interface with responsive design.
 
-  Click Here To Visit Page <a href="https://sarubala-msbala4455.github.io/PRODIGY_WD_02/">Stopwatch - Web Application</a>
+  Click Here To Visit Page <a href="https://sarubala-msbala4455.github.io/Stopwatch-Web-Application/">Stopwatch - Web Application</a>
 
 
 
